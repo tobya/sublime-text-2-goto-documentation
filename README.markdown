@@ -44,7 +44,7 @@ Move the cursor inside the word you want the docs for and:
 ## Edit the urls
 GotoDocumentation allows you to edit the url that opens by editing the settings.
 ### The available settings are:
-```json
+```
 {
     "prefix": "", // added at the begging of the query
     "suffix": "", // added at the end of the query
