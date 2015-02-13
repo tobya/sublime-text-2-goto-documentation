@@ -1,5 +1,5 @@
 {
-    "prefix": "", // added at the begging of the query
+    "prefix": "", // added at the begining of the query
     "suffix": "", // added at the end of the query
     "docs": { // obj containing the docs for each scope
               // these are merged with the default ones
